@@ -7,3 +7,5 @@ print(b)
 c=[]
 c.append(3)
 print(c)
+
+print('배고프다')
