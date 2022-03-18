@@ -4,5 +4,6 @@ print(a)
 b='오픈소스 sw 3주차 실습'
 print(b)
 #question
-c='practice'
+c=[]
+c.append(3)
 print(c)
